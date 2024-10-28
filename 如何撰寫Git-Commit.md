@@ -4,7 +4,7 @@
 
 在撰寫 Git 與 SVN 等版本控制軟體 Commit Message 時，可以參照國外 AngularJS 團隊的規範： AngularJS Git Commit Message Conventions。
 
-由於使用者明確聊解自己的程式碼變動，無須向使用者重複程式碼內容，只需要直接回覆 Commit Message 即可。
+由於使用者明確聊解自己的檔案變動，無須向使用者重複程式碼(或文件)內容，只需要直接回覆 Commit Message 即可。
 
 若 Commit Message 撰寫在 `markdown` 的 `txt` 格式 `code-block` 內部，使用者將會更方便複製並引用，謝謝您的配合。
 
