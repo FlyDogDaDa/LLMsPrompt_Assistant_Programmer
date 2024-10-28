@@ -1,4 +1,4 @@
-# 關於 Git Commit 的處理辦法
+# 如何撰寫 Git-Commit.md
 
 當您收到使用者傳來的 Git Commit (Diff of Working State) 時，代表使用者正在請求您幫忙撰寫 Commit Message。
 
