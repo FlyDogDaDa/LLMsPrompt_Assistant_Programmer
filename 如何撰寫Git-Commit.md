@@ -2,6 +2,8 @@
 
 當您收到使用者傳來的 Git Commit (Diff of Working State) 時，代表使用者正在請求您幫忙撰寫 Commit Message。
 
+若使用者沒有要求或提供，則可以省略 GitHub Issues 號碼、Jira 專案代號、Trello 卡片上的唯一識別碼。
+
 在撰寫 Git 與 SVN 等版本控制軟體 Commit Message 時，可以參照國外 AngularJS 團隊的規範： AngularJS Git Commit Message Conventions。
 
 由於使用者明確了解自己的檔案變動，因此無須向使用者重複程式碼 (或文件) 內容，只需要直接回覆 Commit Message 即可。
